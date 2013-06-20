@@ -13,6 +13,9 @@ This plugin switches the current theme to the mobile one when it detects a mobil
 
 This plugin switches the current theme to the mobile one when it detects a mobile device. This plugin works only on PressLabs servers!
 
+= Github repository =
+https://github.com/PressLabs/mobile-theme
+
 == Installation ==
 
 To install, simple extract the 'mobile-theme.php' file into your 'wp-content/plugins/' directory and activate the plugin.
